@@ -1,0 +1,10 @@
+{
+    "$id": "config.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "token": {
+            "$ref": "NzE4ODc2ODUyNzcyNDA1Mjc5.XtvQUw.ixCjhF57N1qULx55Ww19IZkq99s"
+        }
+    }
+}
